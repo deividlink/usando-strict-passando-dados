@@ -1,1 +1,1 @@
-# usando-strict-passando-dados
+# usando-struct-passando-dados

@@ -1,0 +1,1 @@
+# usando-strict-passando-dados
